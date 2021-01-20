@@ -1,0 +1,92 @@
+body {
+  background-color: skyblue;
+  background-image: url("https://www.bestdesigns.co/uploads/inspiration_images/4531/990__1511456189_555_McDonald's.png");
+}
+
+.tim {
+    width: 200px;
+    height: 200px;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+
+}
+
+h1 {
+  color: blue;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+      animation:blinkingText 1.2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color:red;    }
+    20%{    color:green; }
+  	40%{    color:blue; }
+    60%{    color:yellow;  }
+    100%{   color:green;    }
+}
+  
+     
+
+h2 {
+  color: pink;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  
+}
+
+.abme{
+  color: teal;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+    font-family: 'Poppins', sans-serif;
+}
+
+.me{
+  color: teal;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+.hob{
+  color: lightblue;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+.hobb{
+  color: lightblue;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+    font-family: 'Poppins', sans-serif;}
+
+.hobby{
+        width: 300px;
+    height: 250px;
+}
+
+.site{
+     color: purple;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sites{
+   color: purple;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+}
